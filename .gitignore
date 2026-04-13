@@ -1,0 +1,19 @@
+# Virtual environments
+medical_ai/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data files
+*.nii
+*.nii.gz
+*.csv
+processed_dataset/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
